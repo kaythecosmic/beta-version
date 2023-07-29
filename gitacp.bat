@@ -1,5 +1,5 @@
 git status
 git add .
-set message="implemented the predict script"
+set message="structured"
 git commit -m %message%
 git push
